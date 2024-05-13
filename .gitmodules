@@ -1,0 +1,3 @@
+[submodule "UnityWebRTCSignalingServer"]
+	path = UnityWebRTCSignalingServer
+	url = git@github.com:piaoliangkb/UnityWebRTCSignalingServer.git

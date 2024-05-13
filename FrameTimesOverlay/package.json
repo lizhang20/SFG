@@ -1,0 +1,12 @@
+{
+  "name": "com.unity.solutions.frametimesoverlay",
+  "version": "1.0.0",
+  "displayName": "Frame Times Overlay",
+  "description": "Simple text overlay displaying CPU and GPU frame times using data from the FrameTimingManager.",
+  "unity": "2020.3",
+  "author": {
+    "name": "Daniel Reidler",
+    "email": "daniel.reidler@unity3d.com",
+    "url": ""
+  }
+}
