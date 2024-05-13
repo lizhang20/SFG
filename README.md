@@ -1,4 +1,4 @@
-# SFG
+# SFG: High-density Mobile Cloud Gaming on Edge SoC Farms
 
 This repo contains Unity packages for 
 
