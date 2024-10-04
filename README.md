@@ -1,6 +1,8 @@
-# SFG: High-density Mobile Cloud Gaming on Edge SoC Farms
+# SFG: High-density Mobile Cloud Gaming on Edge SoC Clusters
 
-This repo contains Unity packages for 
+**Read our paper for more details: [[ATC'24] High-density Mobile Cloud Gaming on Edge SoC Clusters](https://www.usenix.org/conference/atc24/presentation/zhang-li-gaming).**
+
+This repo contains Unity packages for
 
 1. partitioning a game session given a rectangle area on the main camera; 
 
